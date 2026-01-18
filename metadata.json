@@ -1,0 +1,5 @@
+{
+  "name": "WebPrint Queue Manager",
+  "description": "A modern bulk printing queue manager interface. Simulates the workflow of a desktop bulk printing application with file management, print status tracking, and sequential job processing.",
+  "requestFramePermissions": []
+}
